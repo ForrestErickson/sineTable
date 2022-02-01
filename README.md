@@ -2,7 +2,7 @@
 An experiment to make a table in PROGMEM with sine and cosine.
 
 Screen shot after the fix. 
-Now workihg using "pgm_read_word_near(wave_I + i)"
+Now working using "pgm_read_word_near(wave_I + i)"
 
 
 ![SineTableCorrectInLoop](SineTableCorrectInLoop.gif)
